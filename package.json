@@ -1,6 +1,6 @@
 {
   "name": "@safeheron/master-key-derive",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Mnemonic Generation; ",
   "keywords": [
     "Mnemonic",
@@ -38,14 +38,13 @@
     "ts-node": "^10.7.0"
   },
   "dependencies": {
-    "@safeheron/crypto-bip32": "^2.0.0",
+    "@safeheron/crypto-bip32": "^2.0.1",
     "@safeheron/crypto-rand": "^1.0.0",
     "@safeheron/crypto-utils": "^2.0.0",
     "assert": "^2.0.0",
-    "bip39": "^3.0.4",
+    "bip39": "^3.1.0",
     "blakejs": "^1.1.0",
     "bn.js": "^4.11.9",
-    "bs58check": "^2.1.2",
     "crypto-js": "^4.2.0",
     "elliptic": "^6.6.1",
     "typescript": "^4.0.5"
